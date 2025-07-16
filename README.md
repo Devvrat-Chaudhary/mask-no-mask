@@ -182,4 +182,3 @@ MIT License. Attribution appreciated.
 
 ```
 
----
