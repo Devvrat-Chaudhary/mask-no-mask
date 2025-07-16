@@ -179,5 +179,3 @@ MIT License. Attribution appreciated.
 
 * Train YOLOv8 on this dataset for detection + classification
 * Use AWS Lambda or Flask API for browser-based detection
-
-```
