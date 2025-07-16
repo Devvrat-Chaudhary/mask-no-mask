@@ -78,7 +78,6 @@ Place the following structure in your Google Drive or local machine:
     └── *.xml
 ```
 
-Make sure the annotation XML files are in **Pascal VOC format**.
 
 ### 3. ▶️ Training (Google Colab Recommended)
 
