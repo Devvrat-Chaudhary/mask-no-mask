@@ -149,6 +149,24 @@ python face_mask_gui.py
 │   └── annotations/
 ├── README.md
 ```
+## 💾 Pretrained Model
+
+You can download the trained model (`mask_detector_model.h5`) from the link below:
+
+📁 [Download from Google Drive](https://drive.google.com/drive/folders/13SwDbrRiNlk8E83ftGij9-NHfpFyaHqP?usp=sharing)
+📁 [Download the Colab Notebook]https://colab.research.google.com/drive/1lOQRd2USM7DHPiOX-z8O3vesBjzqTUQC?usp=sharing
+Also includes the label map (`label_map.pkl`).
+
+> To load it in your code:
+> ```python
+> from tensorflow.keras.models import load_model
+> import pickle
+>
+> model = load_model("mask_detector_model.h5")
+> with open("label_map.pkl", "rb") as f:
+>     label_map = pickle.load(f)
+> ```
+
 
 ---
 
