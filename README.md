@@ -153,8 +153,10 @@ python face_mask_gui.py
 You can download the trained model (`mask_detector_model.h5`) from the link below:
 
 📁 [Download from Google Drive](https://drive.google.com/drive/folders/13SwDbrRiNlk8E83ftGij9-NHfpFyaHqP?usp=sharing)
-📁 [Download the Colab Notebook]https://colab.research.google.com/drive/1lOQRd2USM7DHPiOX-z8O3vesBjzqTUQC?usp=sharing
 Also includes the label map (`label_map.pkl`).
+
+📁 [Download the Colab Notebook](https://colab.research.google.com/drive/1lOQRd2USM7DHPiOX-z8O3vesBjzqTUQC?usp=sharing)
+
 
 > To load it in your code:
 > ```python
