@@ -22,10 +22,10 @@ This project is a real-time face mask detection system using a Convolutional Neu
 
 - [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)  
 - Contains:  
-  - 3,232 images with masks  
-  - 717 without masks  
-  - 123 with mask worn incorrectly  
-- Format: Pascal VOC XML annotations
+  - 698 images with masks  
+  - 119 without masks  
+  - 36 with mask worn incorrectly  
+
 
 ---
 
