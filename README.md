@@ -181,4 +181,3 @@ MIT License. Attribution appreciated.
 * Use AWS Lambda or Flask API for browser-based detection
 
 ```
-
