@@ -1,7 +1,4 @@
 
-### ✅ `README.md`
-
-````markdown
 # 🧠 Real-Time Face Mask Detection using CNN (MobileNetV2)
 
 This project is a real-time face mask detection system using a Convolutional Neural Network (CNN) based on MobileNetV2, trained on annotated face images to detect:
